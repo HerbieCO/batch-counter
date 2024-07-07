@@ -1,5 +1,5 @@
 body {
-    background-image: url("numbers.jpeg");
+    background-image: url("numbers.jpg");
     background-size: cover;
     font-family: 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -37,11 +37,11 @@ button {
 }
 
 #increment-btn {
-    background: #FF5733;
+    background: #8E4585;
 }
 
 #save-btn {
-    background: #DAF7A6;
+    background: #458e4e;
 }
 
 #save-el {
